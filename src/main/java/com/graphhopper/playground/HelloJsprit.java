@@ -1,6 +1,5 @@
 package com.graphhopper.playground;
 
-
 import com.graphhopper.jsprit.analysis.toolbox.GraphStreamViewer;
 import com.graphhopper.jsprit.core.algorithm.VehicleRoutingAlgorithm;
 import com.graphhopper.jsprit.core.algorithm.box.Jsprit;
@@ -15,7 +14,6 @@ import com.graphhopper.jsprit.io.problem.VrpXMLWriter;
 import com.graphhopper.playground.util.ioUtils;
 
 import java.util.Collection;
-
 
 public class HelloJsprit {
     public static void main(String[] args) {
